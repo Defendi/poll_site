@@ -1,0 +1,1 @@
+# Alpicativo de Enquetes usando python/django por Alexandre Defendi
